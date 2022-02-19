@@ -1,0 +1,15 @@
+#Reclassified based on PTYPE column, with the following rules
+15					= 0	water
+125					= 1 	precambrian gneiss and schist
+1 2 14 16 thru 18 123 124 126 127	= 2	paleozoic formations
+3 thru 13 128 129			= 3	mesozoic formations
+96					= 4	tertairy formations
+97 98					= 5 	diorite intrustions
+88 thru 95 100 thru 119			= 6	absaroka volcanic breccias
+19 27 35 85 thru 87 99 120 thru 122	= 7	yellowstone_tuffs
+30 thru 33 37 thru 78			= 8	plateau rhyolite
+20 28 29 34 36 80 82 thru 84		= 9	basalt flows
+21 thru 26 79 81			= 10 	quartenary deposits
+*					= NULL
+
+

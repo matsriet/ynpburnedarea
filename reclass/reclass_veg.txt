@@ -1,0 +1,7 @@
+56				= 0	water
+101				= 1	douglas fir
+73 74 76			= 2	lodgepole pine
+27 52 60 83 84 86 88 95 109	= 3	nonforest
+59				= 4	spruce fir
+40 43				= 5	whitebark pine
+*				= NULL
