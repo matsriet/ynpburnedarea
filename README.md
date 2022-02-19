@@ -8,9 +8,12 @@ By Mats Riet & Sander Veraverbeke
 
 The following files are available:
 
-main.py - Contains the main code used to model burned environments of Yellowstone National Park. Requires endmember sample files to be used.
+main.py - Contains the main python code used to model burned environments of Yellowstone National Park. Requires endmember sample files to be used.
 
 func.py - Contains functions used in the main.py code.
 
 results_analysis.py - Code used to analyse and plot the data output by main.py.
 
+reclass - Folder containing reclass rules used in QGIS to obtain the reclassified surface geological and habitat maps, which are also included.
+
+spectra - Folder containing charcoal spectral samples and satellite spectral response functions. 
